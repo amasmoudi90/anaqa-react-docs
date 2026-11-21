@@ -34,11 +34,15 @@ A limited-time offer with a countdown and a cut-out photo.
 
 ### Thawbi: category cards
 
+![Thawbi: category cards](/block-previews/thawbi-category-cards.jpg)
+
 Tall category cards with photos.
 
 **Settings:** Title, line, categories in your order (or the first ones with a photo), count, "View all" button.
 
 ### Thawbi: collection tabs
+
+![Thawbi: collection tabs](/block-previews/thawbi-collection-tabs.jpg)
 
 Category tabs that switch the products, in two looks: a dark list or tiles.
 
@@ -102,6 +106,8 @@ Why us: tilted photos that stack as you scroll, and four promises.
 
 ### Thawbi: blog
 
+![Thawbi: blog](/block-previews/thawbi-blog.jpg)
+
 Your newest blog articles.
 
 **Settings:** Title, count, "View all" button.
@@ -132,6 +138,8 @@ One to four banners in several layouts.
 
 ### Thawbi: quick links
 
+![Thawbi: quick links](/block-previews/thawbi-quick-links.jpg)
+
 Shortcuts to categories or any link.
 
 **Settings:** Title, look (circles, tiles, chips), categories or your own links, count.
@@ -145,6 +153,8 @@ A tall banner beside a product row.
 **Settings:** Banner photo, title, text, button, product source and count.
 
 ### Thawbi: brands
+
+![Thawbi: brands](/block-previews/thawbi-brands.jpg)
 
 Brand logos.
 
